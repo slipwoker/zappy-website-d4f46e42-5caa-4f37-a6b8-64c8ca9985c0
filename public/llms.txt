@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://photography-d4f46e42.zappy5.app
+https://example.com
 צלמת אירועים מקצועית המתמחה בחתונות ואירועים אלגנטיים. גלו מחירון שקוף, תיק עבודות עשיר ושירות יוצא דופן שמנציח את הרגעים המשמעותיים ביותר שלכם בחן על-זמני.
 
 ### תיק עבודות
-https://photography-d4f46e42.zappy5.app/portfolio
+https://example.com/portfolio
 דפדפו בתיק עבודות עשיר של צילומי חתונות ואירועים עסקיים המשלבים אלגנטיות ועומק רגשי. כל תמונה מספרת סיפור של אהבה ויופי – קבלו השראה וצרו איתי קשר להזמנה.
 
 ### שירותים
-https://photography-d4f46e42.zappy5.app/services
+https://example.com/services
 חבילות צילום אירועים גמישות לחתונות, אירועים עסקיים ועוד. גלו מחירון תחרותי, שירות מותאם אישית וליווי צמוד עד לרגע האחרון – תנו לי להפוך את האירוע שלכם לנצחי.
 
 ### אודות
-https://photography-d4f46e42.zappy5.app/about
+https://example.com/about
 הכירו את רויאל, צלמת אירועים עם תשוקה ללכוד רגעים אמיתיים באווירה מתוחכמת. משלבת מקצועיות ללא פשרות עם לב חם, כדי להעניק לכם חוויה בלתי נשכחת – בואו לשמוע עוד.
 
 ### צור קשר
-https://photography-d4f46e42.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את האירוע שלכם לזיכרון מהפנט? צרו קשר עוד היום לקבלת ייעוץ אישי, מחירון עדכני וזמינות לתאריך המיוחד שלכם – ביחד ניצור קסם שלא יישכח לעולם.
 
 ### תודה - רויאל photography
-https://photography-d4f46e42.zappy5.app/thank-you
+https://example.com/thank-you
 רויאל - photography - תודה - רויאל photography
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://photography-d4f46e42.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://photography-d4f46e42.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://photography-d4f46e42.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://photography-d4f46e42.zappy5.app/contact
-- Endpoint: https://photography-d4f46e42.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Event Photography
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://photography-d4f46e42.zappy5.app/sitemap.xml
-- Robots: https://photography-d4f46e42.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://photography-d4f46e42.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
